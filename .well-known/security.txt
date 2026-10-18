@@ -1,0 +1,4 @@
+Contact: https://github.com/oustunel/tamamstudio.ai/security/advisories/new
+Expires: 2027-10-18T00:00:00.000Z
+Preferred-Languages: en, tr
+Canonical: https://tamamstudio.ai/.well-known/security.txt
